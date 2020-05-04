@@ -1,0 +1,101 @@
+# git --version
+check git verion
+
+# cd ~/desktop
+go to desktop
+
+# cd /c
+go to c: drive
+
+# cd D:
+go to D: drive
+
+# mkdir 'folder name'
+<create new folder
+
+# touch 'file name'
+create new file using extention
+
+# git rm 'file name'
+remove file from directory
+
+# git restore 'file name'
+removed file restored after staging
+
+# git init
+initialized git for directory fist time
+
+# git status
+current status for current file
+
+# git add 'file name'
+staging/indexing before commit or tracking
+
+#git rm --cached 'git command.txt'
+unstaging or un indexing
+
+# git config --global user.email 'email@address.com'
+set user eamil
+
+# git config --global user.name 'user name'
+set user name
+
+# git commit
+start keep tracking name
+
+# git log
+get logs of commit
+
+# clear
+clear screen
+
+# git add .
+add all files to staging
+
+# git commit -m 'type message for track'
+comit one line -m is message
+
+# git log --oneline
+show log in one line
+
+# git show 'git id'
+show older commit by id like 8076d90
+
+# git restore 'file name'
+restore for older commit before staging
+
+# git diff
+get difference for recent modify
+
+# git diff --staged 
+get difference info after staging fore commit 
+
+# git checkout 'commit id' 'file name'
+return to older commit
+
+# git clone 'github project url'
+donwload git project to local directory
+
+# git clone 'github project url' 'different name'
+donwload git project to local directory with different name
+
+# git remote add origin 'github url'
+set local directory for online
+
+# git push -u origin master
+upload data from local machin to online
+
+# git branch
+to get current branch
+
+# git branch 'branch name'
+create a branch 
+
+# git checkout 'branch name'
+switch from current branch to another
+
+# git merge 'branch name'
+to marge branch to master
+
+# git checkout -b 'branch name'
+create branch and enter there
