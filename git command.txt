@@ -82,8 +82,11 @@ donwload git project to local directory with different name
 # git remote add origin 'github url'
 set local directory for online
 
-# git push -u origin master
-upload data from local machin to online
+# git push origin master
+sync from local to online repo
+
+# git pull origin master
+sync from online to local repo
 
 # git branch
 to get current branch
